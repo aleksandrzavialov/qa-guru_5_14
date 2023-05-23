@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "qa-guru-5-14",
+    "environment": "test env",
+    "comment": "test comment",
+    "reportLink": "",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "allure-results",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6022777831:AAGHQtR4h6vKuHHIFhnEutgdHziMsuGR3ZU",
+    "chat": "-993533265",
+    "replyTo": ""
+  }
+}
